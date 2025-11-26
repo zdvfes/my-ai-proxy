@@ -1,0 +1,7 @@
+{
+  "name": "gemini-proxy-vercel",
+  "version": "1.0.0",
+  "dependencies": {
+    "buffer": "^6.0.3" 
+  }
+}
